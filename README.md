@@ -59,17 +59,6 @@ ggrad/
 └── script.js        # Gradient logic
 ```
 
----
-
-## 🛠️ Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rojimijar1/ggrad.git
-   ```
-2. Open `index.html` in your browser — no build step needed.
-
----
 
 ## 📸 Preview
 
@@ -82,5 +71,5 @@ ggrad/
 
 **Rojii Mijar** — [GitHub](https://github.com/Rojimijar1)
 
----
+
 
